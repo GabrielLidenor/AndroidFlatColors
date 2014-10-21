@@ -1,4 +1,6 @@
-AndroidFlatColors
+Android Flat Colors
 =================
 
-Colors.xml with flat colors.
+Color.xml with all the flat colors of the web site http://flatuicolors.com/
+
+Enjoy it! :)
